@@ -1,0 +1,16 @@
+/* src/styles/custom.css */
+@tailwind base;
+@tailwind components;
+
+@layer utilities {
+  .custom-feature {
+
+  }
+  .custom-feature-section {
+    
+  }
+
+ 
+}
+
+@tailwind utilities;
